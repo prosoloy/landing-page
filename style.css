@@ -10,6 +10,8 @@ body {
     
 }
 
+/*headeri daha da yukarıya yaklaştır*/
+
 .top {
     display: flex;
     align-items: center;
@@ -33,4 +35,9 @@ a {
     color: #E5E7EB;
     padding: 5px;
     
+}
+
+.header img {
+    width: 30rem;
+    height: 12rem;
 }
