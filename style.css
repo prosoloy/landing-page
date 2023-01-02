@@ -127,3 +127,28 @@ a {
     color: #1F2937;
 
 }
+
+.quote-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+
+}
+
+.container {
+    width: 35%;
+    
+}
+
+.quoter {
+    text-align: end;
+    font-size: 28px;
+    color: #1F2937;
+}
