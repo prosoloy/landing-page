@@ -37,7 +37,34 @@ a {
     
 }
 
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+
 .header img {
     width: 30rem;
     height: 12rem;
+}
+
+.text h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.text button {
+    background:  #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 20px;
 }
